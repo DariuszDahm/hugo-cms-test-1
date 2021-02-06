@@ -1,7 +1,7 @@
 baseURL = ""
 languageCode = "pl-pl"
 title = "Anubis"
-theme = "ga"
+theme = "ga3"
 paginate = 3
 DefaultContentLanguage = "pl-pl"
 
