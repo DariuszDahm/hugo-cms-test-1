@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Artykuły on Anubis</title>
+    <link>https://example.com/post/</link>
+    <description>Recent content in Artykuły on Anubis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Drugi post w HUGO</title>
+      <link>https://example.com/post/drugipost/</link>
+      <pubDate>Sun, 01 Nov 2020 17:52:30 +0100</pubDate>
+      
+      <guid>https://example.com/post/drugipost/</guid>
+      <description>Drugi post w HUGO There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don&amp;rsquo;t look even slightly believable.
+ If you are going to use a passage of Lorem Ipsum, you need to be sure there isn&amp;rsquo;t anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.</description>
+    </item>
+    
+    <item>
+      <title>Pierwszy post w HUGO</title>
+      <link>https://example.com/post/pierwszypost/</link>
+      <pubDate>Thu, 01 Oct 2020 17:37:11 +0100</pubDate>
+      
+      <guid>https://example.com/post/pierwszypost/</guid>
+      <description>Nagłówek H1 - Hugo post pierwszy What is Lorem Ipsum? Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</description>
+    </item>
+    
+  </channel>
+</rss>
