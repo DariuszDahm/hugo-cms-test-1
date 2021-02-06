@@ -36,7 +36,7 @@ googleAnalytics = ""
   [[menu.main]]
     name = "Archive"
     identifier = "archive"
-    url = "/posts/"
+    url = "/archive/"
     weight = 3
 
 [taxonomies]
