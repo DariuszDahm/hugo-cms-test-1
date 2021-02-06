@@ -23,7 +23,7 @@ googleAnalytics = ""
 
   [[menu.main]]
     identifier = "about"
-    name = "About"
+    name = "O mnie"
     url = "/about/"
     weight = 1
 
