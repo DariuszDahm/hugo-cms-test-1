@@ -2,7 +2,10 @@
 title: Drugi wpis na blogu Hugo CMS
 date: 2021-02-06T17:02:33.691Z
 description: Drugi wpis na blogu testowym HUGO CMS Test 1
+image: /img/image001.webp
 ---
+![](/img/vidar-nordli-mathisen-kuu5mmxkww4-unsplash.jpeg)
+
 <!--StartFragment-->
 
 ## Skąd to wziąć?
