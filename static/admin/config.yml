@@ -21,8 +21,8 @@ collections:
     label: "Strona"
     files:
       - file: "content/_index.md"
-        label: "Home Page"
-        name: "home"
+        label: "Strona główna"
+        name: "Startowa"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Subtitle, name: subtitle, widget: string}
