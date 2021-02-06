@@ -1,6 +1,6 @@
 baseURL = ""
 languageCode = "pl-pl"
-title = "Anubis"
+title = "<Dahm Code/>"
 theme = "ga3"
 paginate = 3
 DefaultContentLanguage = "pl-pl"
@@ -9,10 +9,10 @@ disqusShortname = ""
 googleAnalytics = ""
 
 [author]
-  name = "Dmitry Kolosov"
+  name = "Dariusz Dahm"
 
 [params]
-   author = "Dmitry Kolosov"
+   author = "Dariusz Dahm"
    description = "Anubis is a simple minimalist theme for Hugo blog engine."
    dateFormat = "2006-01-02"
    paginationSinglePost = true
