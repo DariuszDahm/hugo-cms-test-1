@@ -16,4 +16,8 @@ collections:
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+<<<<<<< HEAD
       - {label: 'Zdjęcie', name: 'image', widget: 'image', required: false}
+=======
+      - {label: 'Zdjęcie', name: 'image', widget: 'image', required: false}
+>>>>>>> f0d718b7360d6ab507eaf3d6de2c75729a29fbd9
