@@ -3,7 +3,7 @@ title: "About"
 description: "A few years ago, while visiting or, rather, rummaging about Notre-Dame, the author of this book found, in an obscure nook of one of the towers, the following word, engraved by hand upon the wall: —ANANKE."
 featured_image: ''
 ---
-{{< figure src="img/logo.png" title="Dariusz Dahm Linix administrator webcoder" >}}
+{{< figure src="/img/logo.png" title="Dariusz Dahm Linix administrator webcoder" >}}
 
 _Dariusz Dahm_ Prowadzę hosting stron internetowych, administruję serwerami VPS (Virtual Private Server) oraz instaluję i konfiguruję serwery LAMP (Linux, Apache, MySql, Php) na systemie operacyjnym Linux Debian lub Ubuntu.
 Tworzę serwisy internetowe w opraciu o system CMS – WORDPRESS oraz HTML5 i CSS3. Wykonuję audyt stron internetowych.
