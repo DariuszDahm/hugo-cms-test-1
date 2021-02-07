@@ -25,6 +25,7 @@ collections:
         name: "O autorze"
         fields:
           - {label: 'Tytuł', name: title, widget: string}
+          - {label: 'Data publikacji', name: 'date', widget: 'datetime' }
           - {label: 'Opis SEO', name: 'description', widget: 'string' }
           - {label: 'Zdjęcie', name: image, widget: image}
           - {label: 'Treść', name: 'body', widget: 'markdown' }         
