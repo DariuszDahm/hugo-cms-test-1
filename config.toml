@@ -38,10 +38,11 @@ googleAnalytics = ""
     identifier = "archive"
     url = "/"
     weight = 1
+
   [[menu.main]]
     name = "Kontakt"
     identifier = "contact"
-    url = "/contact"
+    url = "/contact/"
     weight = 4  
 
 [taxonomies]
