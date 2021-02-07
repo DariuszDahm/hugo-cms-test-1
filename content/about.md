@@ -12,7 +12,8 @@ image: /img/martym.jpg
 
 **Marek Tymowski - pisarz amator**
 
-*Marek Tymowski* Prowadzę hosting stron internetowych, administruję serwerami VPS (Virtual Private Server) oraz instaluję i konfiguruję serwery LAMP (Linux, Apache, MySql, Php) na systemie operacyjnym Linux Debian lub Ubuntu.
-Tworzę serwisy internetowe w opraciu o system CMS – WORDPRESS oraz HTML5 i CSS3. Wykonuję audyt stron internetowych.
+*Marek Tymowski* to postać fikcyjna. Podobieństwo do innych osób jest przypadkowe i nie zamierzone. 
 
-Po godzinach zajmuję się pisaniem oraz nagrywaniem poradników związanych z technologią informatyczną, systemami Windows oraz Linux. Administruję od lat własnymi serwerami VPS (Virtual Private Server) oraz instaluje i konfiguruje serwery LAMP (Linux, Apache, MySql, Php). Zajmuję się również tworzeniem strony internetowe dla klientów oraz na własne potrzeby, pozycjonowaniem tych stron oraz przeprowadzam audyt i optymalizacje serwisów internetowych pod wyszukiwarki.
+**Agencja *Marek Tymowski*** to fikcyjna agencja marketingowa zajmująca się szeroko pojętym marketingiem sieciowym. Tworzeniem stron internetowych, optymalizacją stron pod wyszukiwarki, reklamą w mediach społecznościowych oraz budową aplikacji internetowych. Dorobek *Agencji Marek Tymowski* jest znikomy i bez większych sukcesów.
+
+*Marek Tymowski* to fikcyjny pisarz amator, nieudacznik któremu się wydaje, że zostanie sławnym pisarzem. Jego opowiadania są raczej kiepskie a warsztat pisarski na niskim poziomie. Jego opowiadania to zbiór jego przemyśleń, bolączek oraz nastrojów które przelewa na internetowy papier. Zbiór opowiadań zawarty na tych stronach stanowi jednak jego własność i rozpowszechnienie bez zgody jest zabronione.
