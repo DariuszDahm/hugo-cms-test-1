@@ -17,14 +17,14 @@ collections:
       - {label: 'Opis SEO', name: 'description', widget: 'string' }
       - {label: 'Zdjęcie', name: 'image', widget: 'image', required: false}
       - {label: 'Treść', name: 'body', widget: 'markdown' }    
-  - name: "pages"
-    label: "Strony"
+  - name: 'pages'
+    label: 'Strony'
+    folder: 'content/'
+    create: true
     files:
-      - file: "content/about.md"
-        label: "O autorze"
-        name: "O autorze"
-        folder: 'content'
-        create: true
+      - file: 'content/about.md'
+        label: 'O autorze'
+        name: 'O autorze'
         fields:
           - {label: 'Tytuł', name: title, widget: string}
           - {label: 'Data publikacji', name: 'date', widget: 'datetime' }
