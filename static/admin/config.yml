@@ -28,4 +28,14 @@ collections:
           - {label: 'Data publikacji', name: 'date', widget: 'datetime' }
           - {label: 'Opis SEO', name: 'description', widget: 'string' }
           - {label: 'Zdjęcie', name: image, widget: image}
-          - {label: 'Treść', name: 'body', widget: 'markdown' }         
+          - {label: 'Treść', name: 'body', widget: 'markdown' }  
+    files:
+      - file: 'content/contact.md'
+        label: 'Kontakt'
+        name: 'Kontakt'
+        fields:
+          - {label: 'Tytuł', name: title, widget: string}
+          - {label: 'Data publikacji', name: 'date', widget: 'datetime' }
+          - {label: 'Opis SEO', name: 'description', widget: 'string' }
+          - {label: 'Zdjęcie', name: image, widget: image}
+          - {label: 'Treść', name: 'body', widget: 'markdown' }              
