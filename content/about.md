@@ -1,8 +1,11 @@
 ---
-title: "O autorze"
-description: "Marek Tymowski - fikcyjna postać literacka. Właściciel fikcyjnej agencji marketingowej, pozycjoner specjalista SEO."
-featured_image: ''
-data:
+title: Pisarz amator - opowiadania
+description: Marek Tymowski - fikcyjna postać. Pisarz amator piszący
+  opowiadania. Właściciel fikcyjnej agencji marketingowej, pozycjoner
+  specjalista SEO.
+featured_image: ""
+data: null
+image: /img/martym.jpg
 ---
 {{< figure src="/img/martym.jpg" title="Marek Tymowski - pisarz amator" >}}
 
