@@ -30,4 +30,4 @@ Jeśli chcesz drogi czytelniku wykorzystać jakieś materiały z jego przeogromn
 
 **Wszystkie teksty zawarte w tym serwisie są chronione prawami autorskimi.** 
 
-Wykorzystanie w całości lub w części fragmentów opowiadań zawartych w tym serwisie wymaga zgody *Marka Tymowskiego.* Kontakt z autorem jest trudny ale możliwy.
+Wykorzystanie w całości lub w części fragmentów opowiadań lub innych tekstów zawartych w tym serwisie wymaga zgody *Marka Tymowskiego.* Kontakt z autorem jest trudny ale możliwy.
