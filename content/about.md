@@ -5,7 +5,7 @@ description: Marek Tymowski - fikcyjna postać. Pisarz amator piszący
   specjalista SEO.
 featured_image: ""
 data: null
-date: 2021-02-07T17:51:33.750Z
+date: 2020-12-31T17:51:33.750Z
 image: /img/martym.jpg
 ---
 ![Marek Tymowski - pisarz amator](/img/martym.jpg "Marek Tymowski")
