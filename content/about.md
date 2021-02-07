@@ -2,6 +2,7 @@
 title: "O autorze"
 description: "Marek Tymowski - fikcyjna postać literacka. Właściciel fikcyjnej agencji marketingowej, pozycjoner specjalista SEO."
 featured_image: ''
+data:
 ---
 {{< figure src="/img/martym.jpg" title="Marek Tymowski - pisarz amator" >}}
 
