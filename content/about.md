@@ -1,5 +1,5 @@
 ---
-title: Pisarz amator - opowiadania
+title: O autorze słów kilka
 description: Marek Tymowski - fikcyjna postać. Pisarz amator piszący
   opowiadania. Właściciel fikcyjnej agencji marketingowej, pozycjoner
   specjalista SEO.
