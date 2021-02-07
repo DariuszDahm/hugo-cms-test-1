@@ -7,6 +7,8 @@ featured_image: ""
 data: null
 image: /img/martym.jpg
 ---
+![](/img/martym.jpg)
+
 **Marek Tymowski - pisarz amator**
 
 *Marek Tymowski* Prowadzę hosting stron internetowych, administruję serwerami VPS (Virtual Private Server) oraz instaluję i konfiguruję serwery LAMP (Linux, Apache, MySql, Php) na systemie operacyjnym Linux Debian lub Ubuntu.
