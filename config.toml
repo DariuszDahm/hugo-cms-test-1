@@ -25,25 +25,24 @@ googleAnalytics = ""
     identifier = "about"
     name = "O autorze"
     url = "/about/"
-    weight = 4
-
-  [[menu.main]]
-    identifier = "tags"
-    name = "Tagi"
-    url = "/tags/"
-    weight = 2
+    weight = 3
 
   [[menu.main]]
     identifier = "categories"
     name = "Kategorie"
     url = "/categories/"
-    weight = 3  
+    weight = 2  
 
   [[menu.main]]
     name = "Wpisy"
     identifier = "archive"
     url = "/"
     weight = 1
+  [[menu.main]]
+    name = "Kontakt"
+    identifier = "contact"
+    url = "/contact"
+    weight = 4  
 
 [taxonomies]
 category = "categories"
