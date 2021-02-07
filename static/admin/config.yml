@@ -17,6 +17,7 @@ collections:
       - {label: 'Opis SEO', name: 'description', widget: 'string' }
       - {label: 'Zdjęcie', name: 'image', widget: 'image', required: false}
       - {label: 'Treść', name: 'body', widget: 'markdown' }
+collections:      
   - name: "pages"
     label: "Strony"
     files:
