@@ -23,3 +23,11 @@ image: /img/martym.jpg
 W swojej twórczości sięga po różne gatunki literackie takie jak powieść historyczna, kryminał, thriller ale przede wszystkim pasjonuje się gatunkiem science fiction oraz zjawiskami paranormalnymi.
 
 ***Zbiór opowiadań zawarty na tych stronach stanowi jednak jego własność i rozpowszechnienie bez zgody jest zabronione.***
+
+Jeśli chcesz drogi czytelniku wykorzystać jakieś materiały z jego przeogromnej twórczości to musisz uzyskać jego zgodę i akceptacje. Nie będzie to łatwe ale próbuj. 
+
+**Tak ma poważnie**. Strona jest wprawką w programowaniu stron internetowych za pomocą generatora stron [HUGO](https://hugo.io). 
+
+**Wszystkie teksty zawarte w tym serwisie są chronione prawami autorskimi.** 
+
+Wykorzystanie w całości lub w części fragmentów opowiadań zawartych w tym serwisie wymaga zgody *Marka Tymowskiego.* Kontakt z autorem jest trudny ale możliwy.
