@@ -16,8 +16,7 @@ collections:
       - {label: 'Data publikacji', name: 'date', widget: 'datetime' }
       - {label: 'Opis SEO', name: 'description', widget: 'string' }
       - {label: 'Zdjęcie', name: 'image', widget: 'image', required: false}
-      - {label: 'Treść', name: 'body', widget: 'markdown' }
-collectionse:      
+      - {label: 'Treść', name: 'body', widget: 'markdown' }    
   - name: "pages"
     label: "Strony"
     files:
