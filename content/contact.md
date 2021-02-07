@@ -3,7 +3,7 @@ title: Kontakt
 description: Kontakt z autorem
 featured_image: ""
 data: null
-date: 2021-02-07T19:23:31.353Z
+date: 2020-12-30T19:33:08.028Z
 image: /img/martym.jpg
 ---
 
