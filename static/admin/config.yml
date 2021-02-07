@@ -19,7 +19,7 @@ collections:
       - {label: 'Treść', name: 'body', widget: 'markdown' }    
   - name: 'pages'
     label: 'Strony'
-    folder: 'content/'
+    folder: 'content/strony'
     create: true
     files:
       - file: 'content/about.md'
