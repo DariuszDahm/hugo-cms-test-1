@@ -5,7 +5,7 @@ other = "Napisany przez"
 other = "w"
 
 [generator]
-other = "Generator stron <a href='https://gohugo.io'>Hugo</a> użyto tematu <a href='https://github.com/EmielH/tale-hugo/'>Tale</a>."
+other = "Wszystkie prawa zastrzeżone. Kopiowanie i rozpowszechnianie bez zgody autora zabronione. <br>Generator stron <a href='https://gohugo.io'>Hugo</a> użyto tematu <a href='https://github.com/EmielH/tale-hugo/'>Tale</a>."
 
 [publishdate]
 other = "{{ .PublishDate.Day }} {{ index $.Site.Data.months_pl (printf \"%d\" .PublishDate.Month) }} {{ .PublishDate.Year }}"
