@@ -27,6 +27,4 @@ collections:
           - {label: 'Tytuł', name: title, widget: string}
           - {label: 'Opis SEO', name: 'description', widget: 'string' }
           - {label: 'Zdjęcie', name: image, widget: image}
-          - {label: 'Treść', name: 'body', widget: 'markdown' }
-          - {label: 'Blurb', name: blurb, widget: object, fields: [
-         
+          - {label: 'Treść', name: 'body', widget: 'markdown' }         
