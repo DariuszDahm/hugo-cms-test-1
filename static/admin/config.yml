@@ -23,6 +23,8 @@ collections:
       - file: "content/about.md"
         label: "O autorze"
         name: "O autorze"
+        folder: 'content'
+        create: true
         fields:
           - {label: 'Tytuł', name: title, widget: string}
           - {label: 'Data publikacji', name: 'date', widget: 'datetime' }
