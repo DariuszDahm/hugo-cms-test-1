@@ -2,6 +2,14 @@
 title: test bloga jeden
 date: 2021-02-06T17:00:07.697Z
 description: to jest pierwszy wpis na blogu Hugo-CMS-test-1
+tags: [
+    "horror",
+    "abc",
+    "krwawe sceny"
+]
+categories: [
+    "Kryminał"
+]
 ---
 # **Test na blogu Hugo CMS**
 

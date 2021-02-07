@@ -1,31 +1,31 @@
-baseURL = ""
-languageCode = "pl-pl"
-title = "< Dahm />"
+baseURL = "http://localhost"
+languageCode = "pl"
+title = "Marek Tymowski"
 theme = "ga3"
 paginate = 3
-DefaultContentLanguage = "pl-pl"
+DefaultContentLanguage = "pl"
 
 disqusShortname = ""
 googleAnalytics = ""
 
 [author]
-  name = "Dariusz Dahm"
+  name = "Marek Tymowski"
 
 [params]
    author = "Dariusz Dahm"
-   description = "Anubis is a simple minimalist theme for Hugo blog engine."
+   description = "Marek Tymowski - pisarz amator, włąsciciel agencji marketingowej, pozycjoner, webmaster."
    dateFormat = "2006-01-02"
    paginationSinglePost = true
    style = "light-without-switcher"
-   readMore = false
+   readMore = true
 
 [menu]
 
   [[menu.main]]
     identifier = "about"
-    name = "O mnie"
+    name = "O autorze"
     url = "/about/"
-    weight = 1
+    weight = 4
 
   [[menu.main]]
     identifier = "tags"
@@ -34,10 +34,16 @@ googleAnalytics = ""
     weight = 2
 
   [[menu.main]]
-    name = "Archiwum"
+    identifier = "categories"
+    name = "Kategorie"
+    url = "/categories/"
+    weight = 3  
+
+  [[menu.main]]
+    name = "Wpisy"
     identifier = "archive"
-    url = "/archive/"
-    weight = 3
+    url = "/"
+    weight = 1
 
 [taxonomies]
 category = "categories"
