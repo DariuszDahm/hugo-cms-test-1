@@ -49,4 +49,4 @@ collections:
                 widget: string
               - label: Treść
                 name: body
-                widget: text             
+                widget: markdown             
