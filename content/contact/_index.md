@@ -9,10 +9,12 @@ contact_entries:
   - heading: Lokalizacja
     text: Torun, kuj-pomorskie
   - heading: Social media
-    text: |-
-      [facebook.pl/Marek.Tymowski](https://facebook.pl/Marek.Tymowski)
+    text: >-
+      <a href="https://facebook.com/Marek.Tymowski"
+      target="_blank">fcebook.com/Marek.Tymowski</a>
 
-      [twitter.com/marektymowski](https://twitter.com/marektymowski)
+
+      <a href="https://twitter.com/marektymowski" target="_blank">twitter.com/Marek.Tymowski</a>
 ---
 
 
