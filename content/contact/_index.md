@@ -15,9 +15,9 @@ contact_entries:
 
       [twitter.com/Marek.Tymowski](https://twitter.com/MarekTymowski)
     body: |-
-      [Facebook.com/Marek.Tymowski](https://facebook.com/Marek.Tymowski)
+      facebook.com/Marek.Tymowski
 
-      [Twitter.com/marektymowski](https://twitter.com/marektymowski)
+      twitter.com/marektymowski
 ---
 
 
