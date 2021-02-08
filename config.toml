@@ -12,7 +12,7 @@ googleAnalytics = ""
   name = "Marek Tymowski"
 
 [params]
-   author = "Dariusz Dahm"
+   author = "Marek Tymowski"
    description = "Marek Tymowski - pisarz amator, włąsciciel agencji marketingowej, pozycjoner, webmaster."
    dateFormat = "2006-01-02"
    paginationSinglePost = true
