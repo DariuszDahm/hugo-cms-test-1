@@ -11,6 +11,7 @@ contact_entries:
   - heading: Social Media
     body: |-
       Facebook.com/Marek.Tymowski
+
       Twitter.com/marektymowski
 ---
 
