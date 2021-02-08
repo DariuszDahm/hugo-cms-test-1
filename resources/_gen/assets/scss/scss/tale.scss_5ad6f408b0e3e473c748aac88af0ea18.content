@@ -442,12 +442,14 @@ footer,
   margin-top: 50px; }
 
 .post-taxonomies span {
-  display: inline-flex;
+  display: inline-block;
   width: 90px;
-  background: #e5e5e5; }
+  background: #f1f1f1;
+  padding: 3px;
+  border-radius: 3px; }
 
 .post-tags, .post-categories {
-  display: inline-flex;
+  display: inline-block;
   list-style: none; }
 
 .post-tags li, .post-categories li {
@@ -459,7 +461,9 @@ footer,
   .nav ul {
     bottom: 0;
     position: absolute;
-    right: 0; } }
+    right: 0; }
+  .post-tags, .post-categories {
+    display: inline-flex; } }
 
 footer {
   font-family: Palatino, "Palatino LT STD", "Palatino Linotype", "Book Antiqua", "Georgia", serif;
@@ -468,9 +472,6 @@ footer {
   footer span {
     color: #555;
     font-size: .8rem; }
-
-.post-taxonomies, .post-tags, .post-categories {
-  display: inline-block; }
 
 .pagination {
   border-top: 0.5px solid #e5e5e5;

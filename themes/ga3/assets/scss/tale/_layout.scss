@@ -72,12 +72,14 @@ footer,
     margin-top: 50px;
 }
 .post-taxonomies span {
-  display: inline-flex;
+  display: inline-block;
   width: 90px;
-  background: #e5e5e5;
+  background: #f1f1f1;
+  padding: 3px;
+  border-radius: 3px;
 }
 .post-tags, .post-categories {
-  display: inline-flex;
+  display: inline-block;
   list-style: none;
 }
 
@@ -97,6 +99,10 @@ footer,
       right: 0;
     }
   }
+  .post-tags, .post-categories {
+    display: inline-flex;
+  }
+  
 }
 
 footer {
@@ -108,8 +114,4 @@ footer {
     color: $default-color;
     font-size: .8rem;
   }
-}
-
-.post-taxonomies, .post-tags, .post-categories {
-  display: inline-block;
 }
