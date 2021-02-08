@@ -6,7 +6,12 @@ data: null
 date: 2020-12-30T19:33:08.028Z
 image: /img/martym.jpg
 contact_entries:
-  
+  - heading: Lokalizacja
+    body: Toruń, kujawsko-pomorskie
+  - heading: Social Media
+    body: |-
+      Facebook.com/Marek.Tymowski
+      Twitter.com/marektymowski
 ---
 
 
