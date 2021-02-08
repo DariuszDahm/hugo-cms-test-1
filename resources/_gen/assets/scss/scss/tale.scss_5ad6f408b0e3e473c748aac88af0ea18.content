@@ -469,6 +469,9 @@ footer {
     color: #555;
     font-size: .8rem; }
 
+.post-taxonomies, .post-tags, .post-categories {
+  display: inline-block; }
+
 .pagination {
   border-top: 0.5px solid #e5e5e5;
   font-family: Palatino, "Palatino LT STD", "Palatino Linotype", "Book Antiqua", "Georgia", serif;
