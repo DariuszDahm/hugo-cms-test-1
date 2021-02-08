@@ -28,10 +28,11 @@ googleAnalytics = ""
     weight = 3
 
   [[menu.main]]
-    identifier = "categories"
+    identifier = "categories "
     name = "Kategorie"
     url = "/categories/"
     weight = 2  
+    title = "Kategorie"
 
   [[menu.main]]
     name = "Wpisy"

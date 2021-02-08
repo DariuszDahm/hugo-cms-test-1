@@ -66,6 +66,25 @@ footer,
   }
 }
 
+.post-taxonomies {
+    padding: 10px 0;
+    border-top: 0.5px solid #e5e5e5;
+    margin-top: 50px;
+}
+.post-taxonomies span {
+  display: inline-flex;
+  width: 90px;
+  background: #e5e5e5;
+}
+.post-tags, .post-categories {
+  display: inline-flex;
+  list-style: none;
+}
+
+.post-tags li, .post-categories li {
+  padding-right: 20px;
+}
+
 @media (min-width: 600px) {
   .nav {
     &-container {
