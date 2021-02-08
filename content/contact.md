@@ -5,6 +5,11 @@ featured_image: ""
 data: null
 date: 2020-12-30T19:33:08.028Z
 image: /img/martym.jpg
+contact_entries:
+  - heading: Lokalizacja
+    text: Torun, kuj-pomorskie
+  - heading: Social media
+    text: Facebook.pl/MarekTymowski
 ---
 
 
