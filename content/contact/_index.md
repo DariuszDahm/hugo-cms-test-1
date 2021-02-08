@@ -12,7 +12,7 @@ contact_entries:
     body: |-
       Facebook.com/Marek.Tymowski
 
-      Twitter.com/marektymowski
+      Twitter.com/MarekTymowski
 ---
 
 
