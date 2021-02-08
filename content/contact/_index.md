@@ -12,7 +12,7 @@ contact_entries:
     text: |-
       [fcebook.com/Marek.Tymowski](https://facebook.com/Marek.Tymowski)
 
-      [twitter.com/Marek.Tymowski](https://twitter.com/Marek.Tymowski)
+      [twitter.com/Marek.Tymowski](https://twitter.com/MarekTymowski)
 ---
 
 
