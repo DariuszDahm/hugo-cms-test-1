@@ -9,10 +9,7 @@ contact_entries:
   - heading: Lokalizacja
     body: Toruń, kujawsko-pomorskie
   - heading: Social Media
-    body: |-
-      Facebook.com/Marek.Tymowski
-
-      Twitter.com/MarekTymowski
+    body: Facebook.com/Marek.Tymowsk
 ---
 
 
