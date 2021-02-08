@@ -8,11 +8,16 @@ image: /img/martym.jpg
 contact_entries:
   - heading: Lokalizacja
     text: Torun, kuj-pomorskie
+    body: "**Toruń, kuj-pomorskie**"
   - heading: Social media
     text: |-
       [fcebook.com/Marek.Tymowski](https://facebook.com/Marek.Tymowski)
 
       [twitter.com/Marek.Tymowski](https://twitter.com/MarekTymowski)
+    body: |-
+      [Facebook.com/Marek.Tymowski](https://facebook.com/Marek.Tymowski)
+
+      [Twitter.com/marektymowski](https://twitter.com/marektymowski)
 ---
 
 
