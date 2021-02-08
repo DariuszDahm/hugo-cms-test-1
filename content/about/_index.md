@@ -26,7 +26,7 @@ W swojej twórczości sięga po różne gatunki literackie takie jak powieść h
 
 Jeśli chcesz drogi czytelniku wykorzystać jakieś materiały z jego przeogromnej twórczości to musisz uzyskać jego zgodę i akceptacje. Nie będzie to łatwe ale próbuj. 
 
-**Tak ma poważnie**. Strona jest wprawką w programowaniu stron internetowych za pomocą generatora stron [HUGO](https://hugo.io). 
+**Tak ma poważnie**. Strona jest wprawką w programowaniu stron internetowych za pomocą generatora stron [HUGO](https://gohugo.io). 
 
 **Wszystkie teksty zawarte w tym serwisie są chronione prawami autorskimi.** 
 
