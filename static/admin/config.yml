@@ -44,9 +44,9 @@ collections:
             name: contact_entries
             widget: list
             fields:
-              - label: Heading
+              - label: Nagłówek
                 name: heading
                 widget: string
-              - label: Text
+              - label: Treść
                 name: body
-                widget: markdown             
+                widget: text             

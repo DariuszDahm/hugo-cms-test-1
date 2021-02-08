@@ -6,18 +6,7 @@ data: null
 date: 2020-12-30T19:33:08.028Z
 image: /img/martym.jpg
 contact_entries:
-  - heading: Lokalizacja
-    text: Torun, kuj-pomorskie
-    body: "**Toruń, kuj-pomorskie**"
-  - heading: Social media
-    text: |-
-      [fcebook.com/Marek.Tymowski](https://facebook.com/Marek.Tymowski)
-
-      [twitter.com/Marek.Tymowski](https://twitter.com/MarekTymowski)
-    body: |-
-      facebook.com/Marek.Tymowski
-
-      twitter.com/marektymowski
+  
 ---
 
 
