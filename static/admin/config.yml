@@ -48,5 +48,5 @@ collections:
                 name: heading
                 widget: string
               - label: Text
-                name: text
+                name: body
                 widget: markdown             
