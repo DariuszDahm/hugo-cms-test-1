@@ -10,6 +10,10 @@ tags:
   - przemoc
   - krwawe sceny
 image: ""
+autor_dane:
+  - image: /img/martym.jpg
+    body: Marek Tymowski - pisarz amator. Specjalista SEO właściciel agencji
+      marketingowej - Agencja Marek Tymowski.
 ---
 <!--StartFragment-->
 
