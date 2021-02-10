@@ -18,7 +18,19 @@ collections:
       - {label: 'Kategoria', name: 'categories', widget: 'string'}
       - {label: 'Tagi', name: 'tags', widget: 'string'}
       - {label: 'Zdjęcie', name: 'image', widget: 'image', required: false}
-      - {label: 'Treść', name: 'body', widget: 'markdown' }    
+      - {label: 'Treść', name: 'body', widget: 'markdown' } 
+      - label: Dane autora
+        name: autor_dane
+        widget: list
+        fields: 
+          -label: Zdjęcie
+            name: Image
+            widget: image
+            required: false
+          -label: Bio
+            name: bio
+            widget: markdown  
+
   - name: 'pages'
     label: 'Strony'
     files:
