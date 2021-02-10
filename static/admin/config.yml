@@ -23,7 +23,7 @@ collections:
         name: autor_dane
         widget: list
         fields: 
-          -label: Zdjęcie
+          -label: Image
             name: Image
             widget: image
             required: false
