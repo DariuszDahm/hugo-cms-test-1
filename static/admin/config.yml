@@ -23,13 +23,8 @@ collections:
         name: autor_dane
         widget: list
         fields: 
-          -label: Image
-            name: Image
-            widget: image
-            required: false
-          -label: Bio
-            name: bio
-            widget: markdown  
+          - {label: 'Zdjęcie', name: 'image', widget: 'image', required: false}
+          - {label: 'Bio', name: 'body', widget: 'markdown' }  
 
   - name: 'pages'
     label: 'Strony'
