@@ -1,9 +1,14 @@
 ---
-title: Świt żywych trupów
+title: Noc żywych trupów
 date: 2021-02-14T21:10:12.910Z
-description: Świt żywych trupów opowiadania
-categories: [ "Opowiadanie" ]
-tags:[ "Horror", "Przemoc", "sex" ]
+description: Noc żywych trupów opowiadania
+categories:
+  - Opowiadanie
+tags:
+  - horror
+  - sex
+  - przemoc
+  - krwawe sceny
 ---
 <!--StartFragment-->
 
