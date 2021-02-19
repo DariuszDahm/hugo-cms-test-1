@@ -47,8 +47,8 @@ googleAnalytics = ""
     weight = 4  
 
 [taxonomies]
-category = "Kategorie"
-tag = "tagi"
+category = "categories"
+tag = "tags"
 
 [markup.goldmark.renderer]
 unsafe = true
