@@ -27,6 +27,10 @@ collections:
           - {label: 'Bio', name: 'body', widget: 'markdown' }  
   - name: 'pages'
     label: 'Strony'
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: true
     files:
       - file: 'content/about/_index.md'
         label: 'O autorze'
