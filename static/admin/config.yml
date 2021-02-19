@@ -2,7 +2,6 @@ backend:
   name: git-gateway
   branch: main # Branch to update (optional; defaults to master)
 
-logo_url: https://tymowski.tk/img/image001.jpg
 locale: 'pl'
 site_url: https://tymowski.tk
 publish_mode: editorial_workflow  
