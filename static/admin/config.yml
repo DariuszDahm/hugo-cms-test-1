@@ -65,5 +65,5 @@ collections:
       - {label: 'Tytuł', name: title, widget: string}
       - {label: 'Data publikacji', name: 'date', widget: 'datetime' }
       - {label: 'Opis SEO', name: 'description', widget: 'string' }
-      - {label: 'Zdjęcie', name: image, widget: image}
+      - {label: 'Zdjęcie', name: image, widget: image, required: false}
       - {label: 'Treść', name: 'body', widget: 'markdown' }    
