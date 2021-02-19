@@ -4,6 +4,7 @@ backend:
 
 locale: 'pl'
 site_url: https://tymowski.tk
+
 publish_mode: editorial_workflow  
 media_folder: static/img
 public_folder: /img
@@ -26,13 +27,8 @@ collections:
       - {label: 'Tagi', name: 'tags', widget: 'string'}
       - {label: 'Zdjęcie', name: 'image', widget: 'image', required: false}
       - {label: 'Treść', name: 'body', widget: 'markdown' } 
-      - label: Dane autora
-        name: autor_dane
-        widget: list
-        fields: 
-          - {label: 'Zdjęcie', name: 'image', widget: 'image', required: false}
-          - {label: 'Bio', name: 'body', widget: 'markdown' }  
-  - name: 'pages'
+  
+  - name: 'Inne strony'
     label: 'Strony'
     description: >
       Edytowanie istniejących stron, kontakt oraz o autorze 
@@ -65,6 +61,16 @@ collections:
               - label: Treść
                 name: body
                 widget: markdown  
+      files:
+      - file: 'content/about/_index.md'
+        label: 'O autorze'
+        name: 'O autorze'
+        fields:
+          - {label: 'Tytuł', name: title, widget: string}
+          - {label: 'Data publikacji', name: 'date', widget: 'datetime' }
+          - {label: 'Opis SEO', name: 'description', widget: 'string' }
+          - {label: 'Zdjęcie', name: image, widget: image}
+          - {label: 'Treść', name: 'body', widget: 'markdown' }            
                 
   - name: 'Nowa strona' # Used in routes, ie.: /admin/collections/:slug/edit
     label: 'Dodaj nową stronę' # Used in the UI
@@ -78,4 +84,5 @@ collections:
       - {label: 'Opis SEO', name: 'description', widget: 'string' }
       - {label: 'Zdjęcie', name: image, widget: image, required: false}
       - {label: 'Treść', name: 'body', widget: 'markdown' }    
-© 2021 GitHub, Inc.
+ 
+
