@@ -66,9 +66,9 @@ collections:
                 name: body
                 widget: markdown  
       files:
-      - file: 'content/_index.md'
-        label: 'Strona Home'
-        name: 'Strona Home'
+      - file: 'content/about/_index.md'
+        label: 'O autorze'
+        name: 'O autorze'
         fields:
           - {label: 'Tytuł', name: title, widget: string}
           - {label: 'Data publikacji', name: 'date', widget: 'datetime' }
@@ -82,6 +82,19 @@ collections:
       Dodawanie nowej strony nie będacej wpisem na blogu.
     folder: 'content/page'
     create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: 'Tytuł', name: title, widget: string}
+      - {label: 'Data publikacji', name: 'date', widget: 'datetime' }
+      - {label: 'Opis SEO', name: 'description', widget: 'string' }
+      - {label: 'Zdjęcie', name: image, widget: image, required: false}
+      - {label: 'Treść', name: 'body', widget: 'markdown' }    
+
+  - name: 'Strona Home' # Used in routes, ie.: /admin/collections/:slug/edit
+    label: 'Strona Home' # Used in the UI
+    description: >
+      Edycja strony głównej Home
+    folder: 'content/'
+    create: false # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: 'Tytuł', name: title, widget: string}
       - {label: 'Data publikacji', name: 'date', widget: 'datetime' }
