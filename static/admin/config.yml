@@ -37,6 +37,15 @@ collections:
     description: >
       Edytowanie istniejących stron, kontakt oraz o autorze 
     files:
+      - file: 'content/_index.md'
+        label: 'Strona główna'
+        name: 'Strona główna'
+        fields:
+          - {label: 'Tytuł', name: title, widget: string}
+          - {label: 'Data publikacji', name: 'date', widget: 'datetime' }
+          - {label: 'Opis SEO', name: 'description', widget: 'string' }
+          - {label: 'Zdjęcie', name: image, widget: image}
+          - {label: 'Treść', name: 'body', widget: 'markdown' }   
       - file: 'content/about/_index.md'
         label: 'O autorze'
         name: 'O autorze'
@@ -46,15 +55,7 @@ collections:
           - {label: 'Opis SEO', name: 'description', widget: 'string' }
           - {label: 'Zdjęcie', name: image, widget: image}
           - {label: 'Treść', name: 'body', widget: 'markdown' }  
-      - file: 'content/_index.md'
-        label: 'Strona główna'
-        name: 'Strona główna'
-        fields:
-          - {label: 'Tytuł', name: title, widget: string}
-          - {label: 'Data publikacji', name: 'date', widget: 'datetime' }
-          - {label: 'Opis SEO', name: 'description', widget: 'string' }
-          - {label: 'Zdjęcie', name: image, widget: image}
-          - {label: 'Treść', name: 'body', widget: 'markdown' }      
+          
       - file: 'content/contact/_index.md'
         label: 'Kontakt'
         name: 'Kontakt'
