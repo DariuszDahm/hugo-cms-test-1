@@ -36,7 +36,7 @@ collections:
   - name: 'pages'
     label: 'Strony'
     description: >
-      Edytowanie istniejącyhc stron, kontakt oraz o autorze 
+      Edytowanie istniejących stron, kontakt oraz o autorze 
     files:
       - file: 'content/about/_index.md'
         label: 'O autorze'
