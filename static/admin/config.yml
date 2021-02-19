@@ -6,7 +6,9 @@ site_url: https://tymowski.tk
 locale: 'pl'
 
 publish_mode: editorial_workflow
-media_folder: assets/uploads
+
+media_folder: static/img
+public_folder: /img
 
 collections: # A list of collections the CMS should be able to edit
   - name: 'posts' # Used in routes, ie.: /admin/collections/:slug/edit
