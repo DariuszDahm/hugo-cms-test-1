@@ -33,7 +33,6 @@ collections:
         fields: 
           - {label: 'Zdjęcie', name: 'image', widget: 'image', required: false}
           - {label: 'Bio', name: 'body', widget: 'markdown' } 
-
   - name: 'pages'
     label: 'Strony'
     description: >
@@ -68,7 +67,6 @@ collections:
               - label: Treść
                 name: body
                 widget: markdown  
-                
       files:
       - file: 'content/_index.md'
         label: 'Strona Home'
@@ -78,8 +76,7 @@ collections:
           - {label: 'Data publikacji', name: 'date', widget: 'datetime' }
           - {label: 'Opis SEO', name: 'description', widget: 'string' }
           - {label: 'Zdjęcie', name: image, widget: image}
-          - {label: 'Treść', name: 'body', widget: 'markdown' }            
-                
+          - {label: 'Treść', name: 'body', widget: 'markdown' }                      
   - name: 'Nowa strona' # Used in routes, ie.: /admin/collections/:slug/edit
     label: 'Dodaj nową stronę' # Used in the UI
     description: >
