@@ -1,8 +1,8 @@
 backend:
   name: git-gateway
   branch: main # Branch to update (optional; defaults to master)
-  logo_url: 'https://tymowski.tk/img/martym.jpg'
-  locale: 'pl'
+  logo_url: https://tymowski.tk/img/martym.jpg
+  locale: 'de'
 media_folder: static/img
 public_folder: /img
 collections:
