@@ -33,8 +33,8 @@ collections:
         fields: 
           - {label: 'Zdjęcie', name: 'image', widget: 'image', required: false}
           - {label: 'Bio', name: 'body', widget: 'markdown' }  
-          
-  - name: 'pages'
+
+    - name: 'pages'
     label: 'Strony'
     description: >
       Edytowanie istniejących stron, kontakt oraz o autorze 
