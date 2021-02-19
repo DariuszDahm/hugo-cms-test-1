@@ -34,7 +34,9 @@ collections:
           - {label: 'Zdjęcie', name: 'image', widget: 'image', required: false}
           - {label: 'Bio', name: 'body', widget: 'markdown' }  
   - name: 'pages'
-    label: 'Strony' 
+    label: 'Strony'
+    description: >
+      Edytowanie istniejącyhc stron, kontakt oraz o autorze 
     files:
       - file: 'content/about/_index.md'
         label: 'O autorze'
@@ -67,6 +69,8 @@ collections:
                 
   - name: 'Nowa strona' # Used in routes, ie.: /admin/collections/:slug/edit
     label: 'Dodaj nową stronę' # Used in the UI
+    description: >
+      Dodawanie nowej strony nie będacej wpisem na blogu.
     folder: 'content/page'
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
