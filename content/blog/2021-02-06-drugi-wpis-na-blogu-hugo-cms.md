@@ -9,7 +9,7 @@ tags:
   - sex
   - przemoc
   - krwawe sceny
-image: ""
+image: /img/image001.webp
 autor_dane:
   - image: /img/martym.jpg
     body: Marek Tymowski - pisarz amator. Specjalista SEO właściciel agencji
