@@ -27,17 +27,6 @@ collections:
           - {label: 'Bio', name: 'body', widget: 'markdown' }  
   - name: 'pages'
     label: 'Strony'
-    folder: 'content'
-    create: true
-    slug: '{{slug}}'
-    editor:
-      preview: true
-    files:
-      - {label: 'Tytuł', name: 'title', widget: 'string' }
-      - {label: 'Data publikacji', name: 'date', widget: 'datetime' }
-      - {label: 'Opis SEO', name: 'description', widget: 'string' }
-      - {label: 'Zdjęcie', name: 'image', widget: 'image', required: false}
-      - {label: 'Treść', name: 'body', widget: 'markdown' }   
     files:
       - file: 'content/about/_index.md'
         label: 'O autorze'
