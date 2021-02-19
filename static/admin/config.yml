@@ -10,7 +10,7 @@ collections:
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
-      preview: true
+      preview: true  
     fields:
       - {label: 'Tytuł', name: 'title', widget: 'string' }
       - {label: 'Data publikacji', name: 'date', widget: 'datetime' }
@@ -31,6 +31,9 @@ collections:
     slug: '{{slug}}'
     editor:
       preview: true
+    fields: # The fields each document in this collection have
+      - { label: 'Question', name: 'title', widget: 'string', tagname: 'h1' }
+      - { label: 'Answer', name: 'body', widget: 'markdown' }  
     files:
       - file: 'content/about/_index.md'
         label: 'O autorze'
