@@ -26,14 +26,7 @@ collections:
           - {label: 'Zdjęcie', name: 'image', widget: 'image', required: false}
           - {label: 'Bio', name: 'body', widget: 'markdown' }  
   - name: 'pages'
-    label: 'Strony'
-    create: true
-    slug: '{{slug}}'
-    editor:
-      preview: true
-    fields: # The fields each document in this collection have
-      - { label: 'Question', name: 'title', widget: 'string', tagname: 'h1' }
-      - { label: 'Answer', name: 'body', widget: 'markdown' }  
+    label: 'Strony' 
     files:
       - file: 'content/about/_index.md'
         label: 'O autorze'
