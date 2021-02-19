@@ -78,3 +78,16 @@ collections:
       - {label: 'Opis SEO', name: 'description', widget: 'string' }
       - {label: 'Zdjęcie', name: image, widget: image, required: false}
       - {label: 'Treść', name: 'body', widget: 'markdown' }    
+ - name: 'Strona Home' # Used in routes, ie.: /admin/collections/:slug/edit
+    label: 'Strona Home' # Used in the UI
+    description: >
+      Edycja strony głównej Home
+    folder: 'content/'
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: 'Tytuł', name: title, widget: string}
+      - {label: 'Data publikacji', name: 'date', widget: 'datetime' }
+      - {label: 'Opis SEO', name: 'description', widget: 'string' }
+      - {label: 'Zdjęcie', name: image, widget: image, required: false}
+      - {label: 'Treść', name: 'body', widget: 'markdown' }    
+
