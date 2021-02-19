@@ -1,7 +1,12 @@
 ---
 title: Strona testowa HUGO CMS wersja 0.01
-image: /img/vidar-nordli-mathisen-kuu5mmxkww4-unsplash.jpeg
+image: /img/martym.jpg
 featured_image: /images/bg2.jpg
-description: The last theme you'll ever need. Maybe.
+date: 2021-02-19T11:03:55.571Z
+description: Zmiana opisu seo strony index.
 ---
-Witam na blogu - Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+Witam na blogu - Strona index.
+
+**Nowe treści na stronie index**
+
+*To jest przykładowa nowa treść strony index.*
