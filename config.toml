@@ -5,7 +5,7 @@ theme = "ga3"
 paginate = 3
 DefaultContentLanguage = "pl"
 
-disqusShortname = ""
+disqusShortname = "tymowski-tk"
 googleAnalytics = ""
 
 [author]

@@ -8,6 +8,16 @@
 		{{ partial "single/header.html" . }}
 
 		{{ .Content }}
+
+		<!--<div style="display: flex; border: 0.5px solid #e5e5e5; padding: 20px;margin: 20px 0;">
+	
+			<p>{{ range .Params.autor_dane }}
+				<img src="{{ .image }}" width="100px" alt="Marek Tymowski" style="float: left;" />{{ .body }}
+
+				{{ end }}
+			</p>
+		</div>-->
+
 		
 		{{ partial "cat_tags.html" . }}
 

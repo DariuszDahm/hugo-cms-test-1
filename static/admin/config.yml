@@ -62,5 +62,8 @@ collections:
     folder: 'content'
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
-      - { label: 'Question', name: 'title', widget: 'string', tagname: 'h1' }
-      - { label: 'Answer', name: 'body', widget: 'markdown' }     
+      - {label: 'Tytuł', name: title, widget: string}
+      - {label: 'Data publikacji', name: 'date', widget: 'datetime' }
+      - {label: 'Opis SEO', name: 'description', widget: 'string' }
+      - {label: 'Zdjęcie', name: image, widget: image}
+      - {label: 'Treść', name: 'body', widget: 'markdown' }    
