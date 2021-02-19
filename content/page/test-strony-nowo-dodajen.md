@@ -1,5 +1,5 @@
 ---
-title: test strony nowo dodajen
+title: test nowej strony
 date: 2021-02-19T11:13:56.163Z
 description: Opis strony nowo dodanej
 image: /img/martym.jpg
