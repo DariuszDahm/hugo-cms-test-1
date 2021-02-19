@@ -84,7 +84,7 @@ collections:
     description: >
       Edycja strony głównej Home
     folder: 'content/'
-    create: true # Allow users to create new documents in this collection
+    create: false # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: 'Tytuł', name: title, widget: string}
       - {label: 'Data publikacji', name: 'date', widget: 'datetime' }
