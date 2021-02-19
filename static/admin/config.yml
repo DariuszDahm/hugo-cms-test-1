@@ -1,7 +1,8 @@
 backend:
   name: git-gateway
   branch: main # Branch to update (optional; defaults to master)
-  locale: 'de'
+  logo_url: https://tymowski.tk/img/martym.jpg
+  locale: 'pl'
 media_folder: static/img
 public_folder: /img
 collections:
@@ -46,7 +47,7 @@ collections:
           - {label: 'Data publikacji', name: 'date', widget: 'datetime' }
           - {label: 'Opis SEO', name: 'description', widget: 'string' }
           - {label: 'Zdjęcie', name: image, widget: image}
-          - {label: 'Treść', name: 'body', widget: 'markdown' } 
+          - {label: 'Treść', name: 'body', widget: 'markdown'} 
           - label: Dane kontaktowe
             name: contact_entries
             widget: list
