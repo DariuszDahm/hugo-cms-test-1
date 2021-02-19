@@ -35,7 +35,7 @@ collections:
   - name: 'Inne strony'
     label: 'Inne strony'
     description: >
-      Edytowanie istniejących stron, kontakt oraz o autorze 
+      Edytowanie istniejących stron.
     files:
       - file: 'content/_index.md'
         label: 'Strona główna'
