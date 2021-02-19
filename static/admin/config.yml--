@@ -1,0 +1,94 @@
+backend:
+  name: git-gateway
+  branch: main # Branch to update (optional; defaults to master)
+
+locale: 'pl'
+site_url: https://tymowski.tk
+publish_mode: editorial_workflow  
+media_folder: static/img
+public_folder: /img
+
+collections:
+  - name: 'blog'
+    label: 'Wpis na blogu'
+    description: > 
+      Dodawanie nowych wpisów na bloga.
+    folder: 'content/blog'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: true  
+    fields:
+      - {label: 'Tytuł', name: 'title', widget: 'string' }
+      - {label: 'Data publikacji', name: 'date', widget: 'datetime' }
+      - {label: 'Opis SEO', name: 'description', widget: 'string' }
+      - {label: 'Kategoria', name: 'categories', widget: 'string'}
+      - {label: 'Tagi', name: 'tags', widget: 'string'}
+      - {label: 'Zdjęcie', name: 'image', widget: 'image', required: false}
+      - {label: 'Treść', name: 'body', widget: 'markdown' } 
+      - label: Dane autora
+        name: autor_dane
+        widget: list
+        fields: 
+          - {label: 'Zdjęcie', name: 'image', widget: 'image', required: false}
+          - {label: 'Bio', name: 'body', widget: 'markdown' }  
+  - name: 'pages'
+    label: 'Strony'
+    description: >
+      Edytowanie istniejących stron, kontakt oraz o autorze 
+    files:
+      - file: 'content/about/_index.md'
+        label: 'O autorze'
+        name: 'O autorze'
+        fields:
+          - {label: 'Tytuł', name: title, widget: string}
+          - {label: 'Data publikacji', name: 'date', widget: 'datetime' }
+          - {label: 'Opis SEO', name: 'description', widget: 'string' }
+          - {label: 'Zdjęcie', name: image, widget: image}
+          - {label: 'Treść', name: 'body', widget: 'markdown' }  
+      - file: 'content/contact/_index.md'
+        label: 'Kontakt'
+        name: 'Kontakt'
+        fields:
+          - {label: 'Tytuł', name: title, widget: string}
+          - {label: 'Data publikacji', name: 'date', widget: 'datetime' }
+          - {label: 'Opis SEO', name: 'description', widget: 'string' }
+          - {label: 'Zdjęcie', name: image, widget: image}
+          - {label: 'Treść', name: 'body', widget: 'markdown'} 
+          - label: Dane kontaktowe
+            name: contact_entries
+            widget: list
+            fields:
+              - label: Nagłówek
+                name: heading
+                widget: string
+              - label: Treść
+                name: body
+                widget: markdown  
+                
+  - name: 'Nowa strona' # Used in routes, ie.: /admin/collections/:slug/edit
+    label: 'Dodaj nową stronę' # Used in the UI
+    description: >
+      Dodawanie nowej strony nie będacej wpisem na blogu.
+    folder: 'content/page'
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: 'Tytuł', name: title, widget: string}
+      - {label: 'Data publikacji', name: 'date', widget: 'datetime' }
+      - {label: 'Opis SEO', name: 'description', widget: 'string' }
+      - {label: 'Zdjęcie', name: image, widget: image, required: false}
+      - {label: 'Treść', name: 'body', widget: 'markdown' }    
+
+  - name: 'Strona Home' # Used in routes, ie.: /admin/collections/:slug/edit
+    label: 'Strona Home' # Used in the UI
+    description: >
+      Edycja strony głównej Home
+    folder: 'content/'
+    create: false # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: 'Tytuł', name: title, widget: string}
+      - {label: 'Data publikacji', name: 'date', widget: 'datetime' }
+      - {label: 'Opis SEO', name: 'description', widget: 'string' }
+      - {label: 'Zdjęcie', name: image, widget: image, required: false}
+      - {label: 'Treść', name: 'body', widget: 'markdown' }    
+
