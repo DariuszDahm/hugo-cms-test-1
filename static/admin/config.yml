@@ -12,6 +12,8 @@ public_folder: /img
 collections:
   - name: 'blog'
     label: 'Wpis na blogu'
+    description: > 
+      Dodawanie nowych wpisów na bloga.
     folder: 'content/blog'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
