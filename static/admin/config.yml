@@ -78,7 +78,8 @@ collections:
       - {label: 'Opis SEO', name: 'description', widget: 'string' }
       - {label: 'Zdjęcie', name: image, widget: image, required: false}
       - {label: 'Treść', name: 'body', widget: 'markdown' }    
- - name: 'Strona Home' # Used in routes, ie.: /admin/collections/:slug/edit
+
+  - name: 'Strona Home' # Used in routes, ie.: /admin/collections/:slug/edit
     label: 'Strona Home' # Used in the UI
     description: >
       Edycja strony głównej Home
