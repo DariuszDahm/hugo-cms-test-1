@@ -59,7 +59,7 @@ collections:
                 
   - name: 'Nowa strona' # Used in routes, ie.: /admin/collections/:slug/edit
     label: 'Dodaj nową stronę' # Used in the UI
-    folder: 'content'
+    folder: 'content/page'
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: 'Tytuł', name: title, widget: string}
