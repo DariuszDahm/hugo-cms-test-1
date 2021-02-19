@@ -3,7 +3,10 @@ backend:
   branch: main # Branch to update (optional; defaults to master)
 
 locale: 'pl'
+
 site_url: https://tymowski.tk
+logo_url: https://tymowski.tk/img/logo-netlify.png
+
 publish_mode: editorial_workflow  
 media_folder: static/img
 public_folder: /img
