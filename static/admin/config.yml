@@ -33,6 +33,7 @@ collections:
         fields: 
           - {label: 'Zdjęcie', name: 'image', widget: 'image', required: false}
           - {label: 'Bio', name: 'body', widget: 'markdown' }  
+          
   - name: 'pages'
     label: 'Strony'
     description: >
