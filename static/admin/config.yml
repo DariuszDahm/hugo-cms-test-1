@@ -25,7 +25,6 @@ collections:
         fields: 
           - {label: 'Zdjęcie', name: 'image', widget: 'image', required: false}
           - {label: 'Bio', name: 'body', widget: 'markdown' }  
-
   - name: 'pages'
     label: 'Strony'
     folder: 'content'
@@ -33,7 +32,7 @@ collections:
     slug: '{{slug}}'
     editor:
       preview: true
-    fields:
+    files:
       - {label: 'Tytuł', name: 'title', widget: 'string' }
       - {label: 'Data publikacji', name: 'date', widget: 'datetime' }
       - {label: 'Opis SEO', name: 'description', widget: 'string' }
