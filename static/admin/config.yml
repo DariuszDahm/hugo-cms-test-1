@@ -67,7 +67,7 @@ collections:
               - label: Treść
                 name: body
                 widget: markdown  
-      files:
+    files:
       - file: 'content/_index.md'
         label: 'Strona Home'
         name: 'Strona Home'
