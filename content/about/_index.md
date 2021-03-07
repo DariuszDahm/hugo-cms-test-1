@@ -6,9 +6,9 @@ description: Marek Tymowski - fikcyjna postać. Pisarz amator piszący
 featured_image: ""
 data: null
 date: 2020-12-31T17:51:33.750Z
-image: /img/martym.jpg
+image: /img/martym-350.png
 ---
-![Marek Tymowski - pisarz amator](/img/martym.jpg "Marek Tymowski")
+![Marek Tymowski - pisarz amator](/img/martym-150.png "Marek Tymowski")
 
 **Marek Tymowski - pisarz amator**
 

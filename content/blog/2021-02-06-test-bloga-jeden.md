@@ -1,5 +1,5 @@
 ---
-title: test bloga jeden
+title: Taki sobie tekst anormalny
 date: 2021-02-06T17:00:07.697Z
 description: to jest pierwszy wpis na blogu Hugo-CMS-test-1
 tags: [
