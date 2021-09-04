@@ -1,9 +1,9 @@
 <head>
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 		{{- if .IsHome }}
 			<meta name="description" content="{{ .Site.Params.Description }}">
+			 <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script> 
 		{{- else if .Description }}
 			<meta name="description" content="{{ .Description }}">
 		{{- end }}
