@@ -1,9 +1,8 @@
 ---
-title: Drugi wpis na blogu Hugo CMS
+title: Lorem Ipsum skąd to wziąć?
 date: 2021-02-06T17:02:33.691Z
 description: Drugi wpis na blogu testowym HUGO CMS Test 1
-categories:
-  - Horror
+categories: List [ "Horror" ]
 tags:
   - horror
   - sex
