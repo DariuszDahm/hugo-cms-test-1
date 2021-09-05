@@ -30,13 +30,7 @@ collections:
       #- label: 'Tagi' 
       #  name: 'tags'
       #  widget: 'list'
-    fields:
-      - label: tagi
-        name: tag
-        required: flase
-        widget: list
-        hint: "Wpis tagi"
-        default: "Opowiadania"
+      - {label: 'tagi', name: 'tag', required: 'flase', widget: 'list', hint: 'Wpis tagi', default: 'Opowiadania}
         
       - {label: 'Zdjęcie', name: 'image', widget: 'image', required: false}
       - {label: 'Treść', name: 'body', widget: 'markdown' } 
