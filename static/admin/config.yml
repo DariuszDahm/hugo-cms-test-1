@@ -30,7 +30,7 @@ collections:
       - label: 'Tagi' 
         name: 'tags'
         widget: 'list'
-        default: ["news"]
+        
       - {label: 'Zdjęcie', name: 'image', widget: 'image', required: false}
       - {label: 'Treść', name: 'body', widget: 'markdown' } 
       - label: Dane autora
