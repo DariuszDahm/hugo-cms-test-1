@@ -12,12 +12,12 @@ body {
   padding: 0; }
 
 html {
-  font-family: "Libre Baskerville", "Times New Roman", Times, serif;
+  font-family: "Times New Roman", Times, serif;
   font-size: 14px;
   overflow-y: scroll; }
   @media (min-width: 600px) {
     html {
-      font-size: 16px; } }
+      font-size: 20px; } }
 body {
   -webkit-text-size-adjust: 100%; }
 
