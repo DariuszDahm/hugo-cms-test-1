@@ -26,7 +26,11 @@ collections:
       - {label: 'Data publikacji', name: 'date', widget: 'datetime' }
       - {label: 'Opis SEO', name: 'description', widget: 'string', required: false }
       - {label: 'Kategoria', name: 'categories', widget: 'string', required: false}
-      - {label: 'Tagi', name: 'tags', widget: 'list', required: false}
+      #- {label: 'Tagi', name: 'tags', widget: 'list', required: false}
+      - label: 'Tagi' 
+        name: 'tags'
+        widget: 'list'
+        default: ["news"]
       - {label: 'Zdjęcie', name: 'image', widget: 'image', required: false}
       - {label: 'Treść', name: 'body', widget: 'markdown' } 
       - label: Dane autora
