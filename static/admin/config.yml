@@ -27,11 +27,7 @@ collections:
       - {label: 'Opis SEO', name: 'description', widget: 'string', required: false }
       - {label: 'Kategoria', name: 'categories', widget: 'string', required: false}
       #- {label: 'Tagi', name: 'tags', widget: 'list', required: false}
-      #- label: 'Tagi' 
-      #  name: 'tags'
-      #  widget: 'list'
-      - {label: 'tagi', name: 'tag', required: 'flase', widget: 'list', hint: 'Wpis tagi', default: 'Opowiadania}
-        
+      - {label: 'tagi', name: 'tag', required: 'flase', widget: 'list', hint: 'Wpis tagi', default: 'Opowiadania}        
       - {label: 'Zdjęcie', name: 'image', widget: 'image', required: false}
       - {label: 'Treść', name: 'body', widget: 'markdown' } 
       - label: Dane autora
