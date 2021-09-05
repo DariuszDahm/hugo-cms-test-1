@@ -4,7 +4,8 @@
     <span>Kategorie:</span>
         <ul class="post-categories">
             {{ range .Params.categories }}
-                <li><a href="{{ "categories/" | urlize | absLangURL }}">{{ . }}</a></li>
+               <!-- <li><a href="{{ "categories/" | urlize | absLangURL }}">{{ . }}</a></li>-->
+                <li><a href="{{ "categories/" | absLangURL }}{{ . | urlize }}">#{{ . }}</a></li>
             {{ end }}
         </ul>
         {{ end }}
