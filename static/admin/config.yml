@@ -22,12 +22,11 @@ collections:
     editor:
       preview: true  
     fields:
-      - {label: 'Tytuł', name: 'title', widget: 'string' }
-      - {label: 'Data publikacji', name: 'date', widget: 'datetime' }
+      - {label: 'Tytuł', name: 'title', widget: 'string', hint: 'Wpisz tytuł artykułu' }
+      - {label: 'Data publikacji', name: 'date', widget: 'datetime', hint: 'Dodaj date wpisu' }
       - {label: 'Opis SEO', name: 'description', widget: 'string', hint: 'Dodaj opis SEO', required: false }
       - {label: 'Kategoria', name: 'categories', widget: 'list', hint: 'Dodaj kategorię', required: false}
-      #- {label: 'Tagi', name: 'tags', widget: 'list', required: false}
-      - {label: 'Tagi', name: 'tags', widget: 'list', required: false, hint: 'Wpis tagi', default: 'Opowiadania', multiple: ''}        
+      - {label: 'Tagi', name: 'tags', widget: 'list', required: false, hint: 'Wpis tagi', default: 'Opowiadania'}        
       - {label: 'Zdjęcie', name: 'image', widget: 'image', required: false}
       - {label: 'Treść', name: 'body', widget: 'markdown' } 
       - label: Dane autora
@@ -35,7 +34,7 @@ collections:
         widget: list
         fields: 
           - {label: 'Zdjęcie', name: 'image', widget: 'image', required: false}
-          - {label: 'Bio', name: 'body', widget: 'markdown' }  
+          - {label: 'Bio', name: 'body', widget: 'markdown', required: false}  
   - name: 'Inne strony'
     label: 'Inne strony'
     description: >
