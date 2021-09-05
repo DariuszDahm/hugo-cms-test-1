@@ -2,8 +2,12 @@
 title: Kradłem piętrowe autobusy
 date: 2021-09-05T08:24:19.968Z
 description: Kradłem piętrowe autobusy
-categories: opowiadanie
-tags: autobus kradzież opowiadanie
+categories: 
+  - Opowiadanie
+tags: 
+  - autobus 
+  - kradzież 
+  - opowiadanie
 image: /img/schie-stra-bus-2657904_640.jpg
 autor_dane:
   - image: /img/martym-150.png
