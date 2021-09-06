@@ -437,7 +437,9 @@ footer,
     font-family: "Helvetica Neue", "Segoe UI", Helvetica, Arial, sans-serif; }
 
 .post-taxonomies {
-  margin-top: 30px; }
+  margin-top: 50px;
+  border-top: 0.5px solid #e5e5e5;
+  padding-top: 50px; }
 
 .post-taxonomies span {
   display: inline-block;
