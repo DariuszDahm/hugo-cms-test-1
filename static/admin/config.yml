@@ -22,11 +22,11 @@ collections:
     editor:
       preview: true  
     fields:
-      - {label: 'Tytuł', name: 'title', widget: 'string', hint: 'Wpisz tytuł artykułu' }
-      - {label: 'Data publikacji', name: 'date', widget: 'datetime', hint: 'Dodaj date wpisu' }
-      - {label: 'Opis SEO', name: 'description', widget: 'string', hint: 'Dodaj opis SEO', required: false }
-      - {label: 'Kategoria', name: 'categories', widget: 'list', hint: 'Dodaj kategorię', required: false}
-      - {label: 'Tagi', name: 'tags', widget: 'list', required: false, hint: 'Wpis tagi', default: 'Opowiadania'}        
+      - {label: 'Tytuł', name: 'title', widget: 'string', hint: 'Wpisz tytuł artykułu', required:true }
+      - {label: 'Data publikacji', name: 'date', widget: 'datetime', hint: 'Dodaj date wpisu', required: true }
+      - {label: 'Opis SEO', name: 'description', widget: 'string', hint: 'Dodaj opis SEO', required: true }
+      - {label: 'Kategoria', name: 'categories', widget: 'list', hint: 'Dodaj kategorię, oddziel je przecinkami', required: true}
+      - {label: 'Tagi', name: 'tags', widget: 'list', required: false, hint: 'Wpis tagi, oddziel je przecinkami', default: 'Opowiadania'}        
       - {label: 'Zdjęcie', name: 'image', widget: 'image', required: false}
       - {label: 'Treść', name: 'body', widget: 'markdown' } 
       - label: Dane autora
@@ -34,7 +34,7 @@ collections:
         widget: list
         fields: 
           - {label: 'Zdjęcie', name: 'image', widget: 'image', required: false}
-          - {label: 'Bio', name: 'body', widget: 'markdown', required: false}  
+          - {label: 'Bio', name: 'body', widget: 'string', required: false}  
   - name: 'Inne strony'
     label: 'Inne strony'
     description: >
