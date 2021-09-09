@@ -29,12 +29,11 @@
 		<!-- RSS -->
 		<link href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
 	        <!-- Global site tag (gtag.js) - Google Analytics -->
-			<script async src="https://www.googletagmanager.com/gtag/js?id=G-KFHZEF7SQV"></script>
-			<script>
-			  window.dataLayer = window.dataLayer || [];
-			  function gtag(){dataLayer.push(arguments);}
-			  gtag('js', new Date());
-
-			  gtag('config', 'G-KFHZEF7SQV');
-			</script>
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-KFHZEF7SQV"></script>
+		  <script>
+		      window.dataLayer = window.dataLayer || [];
+		      function gtag(){dataLayer.push(arguments);}
+		      gtag('js', new Date());
+		      gtag('config', 'G-KFHZEF7SQV');
+		  </script>
 	</head>
