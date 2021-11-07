@@ -8,7 +8,7 @@ data: null
 date: 2020-12-31T17:51:33.750Z
 image: /img/martym-350.png
 ---
-![Marek Tymowski - pisarz amator](/img/martym-150.png "Marek Tymowski")
+![Marek Tymowski - pisarz amator](/img/martym-150a.png "Marek Tymowski")
 
 **Marek Tymowski - pisarz amator**
 
