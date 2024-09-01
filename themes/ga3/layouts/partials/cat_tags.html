@@ -10,14 +10,5 @@
         </ul>
         {{ end }}
     </div>
-    <div>   
-        {{ if .Params.tags }}
-    <span>Tagi:</span>
-            <ul class="post-tags">
-                {{ range .Params.tags }}
-                    <li><a href="{{ "tags/" | absLangURL }}{{ . | urlize }}">#{{ . }}</a></li>
-                {{ end }}
-            </ul>
-    {{ end }}
-    </div> 
+   
 </div>
