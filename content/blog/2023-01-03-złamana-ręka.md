@@ -1,7 +1,7 @@
 ---
 title: Złamana Ręka
 date: 2023-01-03T20:09:52.809Z
-description: Złamana Ręka - Opowiadanie Science Fiction
+description: Złamana Ręka Opowiadanie Science Fiction
 categories:
   - Fantastycka
 tags: Opowiadania
