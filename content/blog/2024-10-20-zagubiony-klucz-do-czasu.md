@@ -36,3 +36,4 @@ Ostatecznie Adam musiał stawić czoła decyzji – czy zmienić bieg historii, 
 Po długiej walce z własnymi uczuciami, Adam zdecydował się na najtrudniejszą opcję – cofnął się w czasie, ale zamiast ingerować, postanowił odkryć, jak rzeczy miały się potoczyć, pozostawiając klucz w miejscu, gdzie go znalazł, i zamykając drzwi z powrotem. Jego decyzja okazała się nie tylko wyborem, ale także aktem odwagi – pogodzenia się z przeszłością i zaakceptowania przyszłości, którą musiał sam stworzyć.
 
 Wracając do swojej rzeczywistości, Adam poczuł spokój. Wiedział, że czas był potężnym, ale też bardzo kruchym narzędziem. W końcu, choć klucz do czasu był zagubiony, on sam znalazł sposób, by odnaleźć sens w życiu, które miał przed sobą.
+
