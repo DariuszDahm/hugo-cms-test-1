@@ -1,7 +1,7 @@
 ---
-title: Zagubiony Klucz do Czasu
+title: Kradłem piętrowe autobus
 date: 2021-09-05T08:24:19.968Z
-description: Zagubiony Klucz do Czasu - opowiadanie fantastyka
+description: Kradłem piętrowe autobus
 categories: 
   - Opowiadanie
 tags: 
