@@ -13,10 +13,6 @@ autor_dane:
     body: "***Marek Tymowski Company***"
 ---
 
-## Zagubiony Klucz do Czasu
-
-### Opowiadanie
-
 Na skraju miasta, w małym warsztacie pełnym zardzewiałych narzędzi i zapomnianych wynalazków, młody wynalazca imieniem Adam próbował naprawić starą, zepsutą maszynę. Jego rodzice zginęli tragicznie w wypadku, a warsztat, który po nich odziedziczył, stał się jedynym miejscem, które dawało mu poczucie więzi z przeszłością.
 
 Jednego wieczoru, podczas przeszukiwania zakurzonych półek, Adam natrafił na dziwną skrzynkę. Była pokryta rdzą, ale wyglądała na dobrze zachowaną. Kiedy ją otworzył, zobaczył mały, złoty klucz i notatkę, którą ledwo dało się odczytać: „Otwórz drzwi, które są zamknięte w czasie”. Zaintrygowany, Adam postanowił sprawdzić, co ten klucz mógłby otworzyć.
